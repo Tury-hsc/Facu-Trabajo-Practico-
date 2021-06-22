@@ -1,0 +1,6 @@
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\bin\Debug\Entidades.dll
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\obj\Debug\Entidades.dll
+C:\Users\Hector coco\Documents\GitHub\SodaMix\Entidades\obj\Debug\Entidades.pdb
